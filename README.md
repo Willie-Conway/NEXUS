@@ -18,9 +18,11 @@
 
 ---
 
+## 📖 **Project Overview**
+
+NEXUS is an interactive cybersecurity simulator designed to help IT professionals understand and mitigate security risks in enterprise environments. This project focuses on Multi-Factor Authentication (MFA) implementation, covering both technical and physical security aspects.
 
 
----
 
 ## ✨ Key Features
 
