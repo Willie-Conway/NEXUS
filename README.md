@@ -1,3 +1,6 @@
+![alt text](Screenshots/NEXUS_Logo.png)
+
+
 # 🏢 NEXUS — TechSolutions Security Simulator
 
 ![NEXUS Simulator](https://img.shields.io/badge/NEXUS-TechSolutions_Security_Simulator-2d8cf0?style=for-the-badge&logo=security&logoColor=white)
@@ -71,6 +74,8 @@
 - **Statistics counter** for blocked vs breached attempts
 - **Detailed outcome descriptions** explaining *why* each result occurs
 
+![alt text](<Screenshots/MFA Attack Simulator.png>)
+
 ---
 
 ## 🔒 **Module 02: Resource Access Control**
@@ -95,6 +100,8 @@
 - **Scoring system** with percentage calculation
 - **Performance tiers**: EXPERT (100%), PROFICIENT (75%+), DEVELOPING (50%+), NEEDS REVIEW (<50%)
 - **Detailed explanation** for each score result
+
+![alt text](<Screenshots/Resource Access Control.png>)
 
 ---
 
@@ -121,6 +128,9 @@
   - Remediation steps
   - Estimated cost ($ to $$$$)
 - **Quick navigation** via vulnerability index list
+
+![alt text](<Screenshots/Physical Security Map.png>)
+
 
 ---
 
@@ -155,6 +165,8 @@ Arrival → ID Check → Watchlist → Photo → Host Alert → NDA → Badge �
 - **Rejection handling** with incident logging
 - **Complete audit trail** for all visitor interactions
 
+![alt text](<Screenshots/Visitor Check-In Flow.png>)
+
 ---
 
 ## 📈 **Module 05: MFA Rollout Dashboard**
@@ -185,6 +197,8 @@ Arrival → ID Check → Watchlist → Photo → Host Alert → NDA → Badge �
   - MFA methods deployed
   - Success criteria
   - Implementation notes
+
+![alt text](<Screenshots/MFA Rollout Dashboard.png>)
 
 ---
 
