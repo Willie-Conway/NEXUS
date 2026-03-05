@@ -1,7 +1,7 @@
-![alt text](Screenshots/NEXUS_Logo.png)
-
 
 # 🏢 NEXUS — TechSolutions Security Simulator
+
+![alt text](Screenshots/NEXUS_Logo.png)
 
 ![NEXUS Simulator](https://img.shields.io/badge/NEXUS-TechSolutions_Security_Simulator-2d8cf0?style=for-the-badge&logo=security&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
